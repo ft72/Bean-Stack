@@ -1,4 +1,4 @@
-## Coffee Shop - Developpement Web Full stack [Laravel, Angular]
+## Coffee Shop - Developpement Web Full stack [Laravel]
 
 ## About this project
 My goal is to develop a Full-stack web application with Laravel and Angular "Coffee Shop". Create an API using Laravel, and consume this API with the Angular framework, and to store the data and manipulate it I used the DBMS most compatible with Laravel applications is MySQL.
