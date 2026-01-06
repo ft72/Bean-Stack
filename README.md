@@ -27,7 +27,3 @@ I'll add it when I'm done with the project.....
 * MySQL for the purpose of a web database.
 * Git.
 
-## About back-end and front-end README: 
-I recommend tackling the sections in order. Start by reading the READMEs in:
-1. [`./backend/`](./coffeeshop-backend/README.md)
-2. [`./frontend/`](./coffeeshop-frontend/README.md)
